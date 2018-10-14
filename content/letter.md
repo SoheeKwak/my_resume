@@ -1,6 +1,6 @@
 ---
-pagetitle: 'Cover Letter - My Name'
-author: 'My Name'
+pagetitle: 'Cover Letter - Sohee Kwak'
+author: 'Sohee Kwak'
 date: 2017-01-01
 ---
 
