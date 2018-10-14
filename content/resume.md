@@ -1,10 +1,10 @@
 ---
-pagetitle: 'Resume - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
+pagetitle: 'Resume - Sohee Kwak'
+author: 'Sohee Kwak'
 date: 2017-01-01
 ---
 
-# Daniel S. Marshall
+# Sohee Kwak
 ## Your Info {.heading .hide}
 Oakville, Ontario\
 905 849 0586\
